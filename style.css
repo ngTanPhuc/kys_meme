@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.meme {
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#image {
+    border: 5px solid white;
+    width: 50%;
+}
+
+#h1-text {
+    font-family: "Libre Baskerville", sans-serif;
+    text-transform: uppercase; 
+}
+
+#h3-text {
+    color: white;
+    margin-top: 10%;
+    width: 180px;
+    text-align: right;
+    margin-left: 88%;
+    font-weight: lighter;
+    font-family: "Dancing Script";
+}
